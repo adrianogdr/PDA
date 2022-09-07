@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+footer{
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.rodape h4{
+    color: white;
+}
